@@ -1,0 +1,4 @@
+CREATE DATABASE class;
+use class;
+CREATE TABLE studebts(id INT PRIMARY KEY, name VARCHAR(50), age int(20));
+ INSERT INTO students1 VALUES(1,"Ali",21),(2,"hassan",22),(3,"moeez",23);
